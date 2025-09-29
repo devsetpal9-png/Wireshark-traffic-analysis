@@ -64,7 +64,7 @@ This packet capture was performed on a personal network with full permission. No
 ---
 
 ## 📁 Repository Structure
-**Wireshark-Task5/ ├── task5_capture.pcap ├── report.md ├── README.md └── screenshots/**
+**Wireshark-traffic-analysis/ ├── report.md ├── README.md ├── docs/ └── screenshots/ └── task5_capture.pcap**
 
 
 ---
